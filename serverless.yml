@@ -14,7 +14,7 @@ provider:
   memorySize: 128
   timeout: 10
   deploymentBucket:
-    name: muswain-serverless-${self:provider.stage}
+    name: muswain-serverless-dev
 
 # you can define service wide environment variables here
 #  environment:
