@@ -22,7 +22,6 @@ provider:
 
 # you can add packaging information here
 package:
-  artifact: mylambda.zip
 #  include:
 #    - include-me.js
 #    - include-me-dir/**
